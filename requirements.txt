@@ -1,4 +1,4 @@
 streamlit
-python-opencv
+opencv-python
 numpy
 roboflow
